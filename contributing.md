@@ -13,13 +13,17 @@ GETTING STARTED (Local Testing):
 
 To test the existing application locally:
 
-1. Navigate to the `src-tauri` directory in your terminal:
+1. **Install Frontend Dependencies:**
+   Before running the application, make sure all frontend dependencies are installed. Navigate to the root of your project directory (where `package.json` is located) and run:
+   `npm install`
+
+2. Navigate to the `src-tauri` directory in your terminal:
    `cd src-tauri`
 
-2. Clean the Cargo build artifacts (recommended for a fresh build):
+3. Clean the Cargo build artifacts (recommended for a fresh build):
    `cargo clean`
 
-3. Run the Tauri application in development mode:
+4. Run the Tauri application in development mode:
    `npm run tauri dev`
    OR
    Build the Tauri application (this will create the installer later):
@@ -49,5 +53,3 @@ INSTALLER GENERATION:
 
 Upon a successful `npm run tauri build` from the `src-tauri` directory, the installer for the application will be generated and can be found in:
 `src-tauri/target/release/bundle`
-
----
