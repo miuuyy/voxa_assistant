@@ -34,4 +34,32 @@ Voxa AI runs as a **desktop voice-first agent** with the following tech stack:
 3. **Fine grid overlay** — zooms into the section for precise targeting
 4. **Pixel-perfect click** — executes the action exactly where needed
 
-This allows cont
+This allows control of **any app, on any screen**, without custom integrations or training.
+
+---
+
+## 🚀 Installation
+
+1. Download the installer from the [official website](https://download-voxa.online/).
+2. Run the installer and follow the setup prompts.
+3. Launch Voxa AI — you’re ready to go.
+
+---
+
+## 📌 Why It Matters
+
+Voxa AI is designed for **real-world usability**, not just demos.  
+It empowers users to interact with their computers naturally, with **speed, precision, and reliability**.
+
+---
+
+## 📚 Contribution
+
+We welcome contributions to improve Voxa AI.  
+Please see our [CONTRIBUTION.md](CONTRIBUTION.md) for guidelines.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License — see the LICENSE file for details.
