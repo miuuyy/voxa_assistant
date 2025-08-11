@@ -6,12 +6,12 @@
 Voxa AI is an **AI-powered voice assistant** that enables people with limited hand mobility to control their entire computer — **precisely, independently, and fully** — using only their voice.  
 It’s not a concept or demo — this is a **fully functional, production-ready application** that you can install and start using today.
 
-🔗 **Website:** [https://download-voxa.online/](https://download-voxa.online/)  
-🎥 **Video Tutorial:** [YouTube — How to Use Voxa AI](https://www.youtube.com/watch?v=Nz9TFwHUPGk&t=1s)
+**Website:** [https://download-voxa.online/](https://download-voxa.online/)  
+**Video Tutorial:** [YouTube — How to Use Voxa AI](https://www.youtube.com/watch?v=Nz9TFwHUPGk&t=1s)
 
 ---
 
-## ✨ Features
+## Features
 
 - **Click anywhere on screen** using a custom two-step visual recognition grid
 - **Natural language understanding** — speak like you normally would
@@ -22,7 +22,7 @@ It’s not a concept or demo — this is a **fully functional, production-ready 
 
 ---
 
-## 🛠 How It Works
+## How It Works
 
 Voxa AI runs as a **desktop voice-first agent** with the following tech stack:
 
@@ -41,7 +41,7 @@ This allows control of **any app, on any screen**, without custom integrations o
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Download the installer from the [official website](https://download-voxa.online/).
 2. Run the installer and follow the setup prompts.
@@ -49,20 +49,20 @@ This allows control of **any app, on any screen**, without custom integrations o
 
 ---
 
-## 📌 Why It Matters
+## Why It Matters
 
 Voxa AI is designed for **real-world usability**, not just demos.  
 It empowers users to interact with their computers naturally, with **speed, precision, and reliability**.
 
 ---
 
-## 📚 Contribution
+## Contribution
 
 We welcome contributions to improve Voxa AI.  
 Please see our [CONTRIBUTION.md](CONTRIBUTION.md) for guidelines.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
