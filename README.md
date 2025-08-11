@@ -3,12 +3,12 @@
 Voxa AI is an **AI-powered voice assistant** that enables people with limited hand mobility to control their entire computer вЂ” **precisely, independently, and fully** вЂ” using only their voice.  
 ItвЂ™s not a concept or demo вЂ” this is a **fully functional, production-ready application** that you can install and start using today.
 
-рџ”— **Website:** [https://download-voxa.online/](https://download-voxa.online/)  
-рџЋҐ **Video Tutorial:** [YouTube вЂ” How to Use Voxa AI](https://www.youtube.com/watch?v=Nz9TFwHUPGk&t=1s)
+**Website:** [https://download-voxa.online/](https://download-voxa.online/)  
+**Video Tutorial:** [YouTube вЂ” How to Use Voxa AI](https://www.youtube.com/watch?v=Nz9TFwHUPGk&t=1s)
 
 ---
 
-## вњЁ Features
+##Features
 
 - **Click anywhere on screen** using a custom two-step visual recognition grid
 - **Natural language understanding** вЂ” speak like you normally would
@@ -19,7 +19,7 @@ ItвЂ™s not a concept or demo вЂ” this is a **fully functional, productio
 
 ---
 
-## рџ›  How It Works
+##How It Works
 
 Voxa AI runs as a **desktop voice-first agent** with the following tech stack:
 
@@ -39,7 +39,7 @@ This allows control of **any app, on any screen**, without custom integrations o
 
 ---
 
-## рџљЂ Installation
+##Installation
 
 1. Download the installer from the [official website](https://download-voxa.online/).
 2. Run the installer and follow the setup prompts.
@@ -47,20 +47,20 @@ This allows control of **any app, on any screen**, without custom integrations o
 
 ---
 
-## рџ“Њ Why It Matters
+## Why It Matters
 
 Voxa AI is designed for **real-world usability**, not just demos.  
 It empowers users to interact with their computers naturally, with **speed, precision, and reliability**.
 
 ---
 
-## рџ“љ Contribution
+## Contribution
 
 We welcome contributions to improve Voxa AI.  
 Please see our [CONTRIBUTION.md](CONTRIBUTION.md) for guidelines.
 
 ---
 
-## рџ“њ License
+## License
 
 This project is licensed under the MIT License вЂ” see the LICENSE file for details.
