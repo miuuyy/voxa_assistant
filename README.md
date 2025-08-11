@@ -1,7 +1,7 @@
 # Voxa AI — Voice Meets Control
 
 
-<img src="<a href="https://i.ibb.co/DfRSvMRQ/main-Ta-Ec-Poef-Xw.png" width="600">
+<img src="https://i.ibb.co/DfRSvMRQ/main-Ta-Ec-Poef-Xw.png"  width="600">
 
 Voxa AI is an **AI-powered voice assistant** that enables people with limited hand mobility to control their entire computer — **precisely, independently, and fully** — using only their voice.  
 It’s not a concept or demo — this is a **fully functional, production-ready application** that you can install and start using today.
