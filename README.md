@@ -1,10 +1,10 @@
 # Voxa AI
 
 Voxa AI is an **AI-powered voice assistant** that enables people with limited hand mobility to control their entire computer вЂ” **precisely, independently, and fully** вЂ” using only their voice.  
-ItвЂ™s not a concept or demo вЂ” this is a **fully functional, production-ready application** that you can install and start using today.
+Its not a concept or demo вЂ” this is a **fully functional, production-ready application** that you can install and start using today.
 
 **Website:** [https://download-voxa.online/](https://download-voxa.online/)  
-**Video Tutorial:** [YouTube вЂ” How to Use Voxa AI](https://www.youtube.com/watch?v=Nz9TFwHUPGk&t=1s)
+**Video Tutorial:** [YouTube How to Use Voxa AI](https://www.youtube.com/watch?v=Nz9TFwHUPGk&t=1s)
 
 ---
 
