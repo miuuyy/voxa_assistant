@@ -59,7 +59,7 @@ It empowers users to interact with their computers naturally, with **speed, prec
 ## Contribution
 
 We welcome contributions to improve Voxa AI.  
-Please see our [CONTRIBUTION.md](CONTRIBUTION.md) for guidelines.
+Please see our [contributing.md](contributing.md) for guidelines.
 
 ---
 
